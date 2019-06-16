@@ -2,6 +2,13 @@
   "configurations": [
     {
         "type": "java",
+        "name": "CodeLens (Launch) - Bribes",
+        "request": "launch",
+        "mainClass": "prep.arrays.Bribes",
+        "projectName": "odds-and-ends_107bd4a8"
+    },
+    {
+        "type": "java",
         "name": "CodeLens (Launch) - HourGlass",
         "request": "launch",
         "mainClass": "prep.arrays.HourGlass",
