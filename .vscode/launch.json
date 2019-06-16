@@ -4,6 +4,20 @@
         "type": "java",
         "name": "CodeLens (Launch) - HourGlass",
         "request": "launch",
+        "mainClass": "prep.arrays.HourGlass",
+        "projectName": "odds-and-ends_107bd4a8"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - HourGlass",
+        "request": "launch",
+        "mainClass": "HourGlass",
+        "projectName": "odds-and-ends_107bd4a8"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - HourGlass",
+        "request": "launch",
         "mainClass": "prep.HourGlass",
         "projectName": "odds-and-ends_107bd4a8"
     },

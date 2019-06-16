@@ -1,4 +1,4 @@
-package practice;
+package prep.practice;
 
 import java.io.IOException;
 import java.util.Arrays;
