@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BigSum",
+            "request": "launch",
+            "mainClass": "practice.BigSum",
+            "projectName": "odds-and-ends_107bd4a8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompareTriplets",
+            "request": "launch",
+            "mainClass": "practice.CompareTriplets",
+            "projectName": "odds-and-ends_107bd4a8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "practice.Solution",
+            "projectName": "odds-and-ends_107bd4a8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution"
+        }
+    ]
+}
